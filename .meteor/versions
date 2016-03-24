@@ -28,6 +28,7 @@ ecmascript@0.4.1-rc.9
 ecmascript-runtime@0.2.8-rc.9
 ejson@1.0.9-rc.9
 email@1.0.10-rc.9
+es5-shim@4.5.8-rc.9
 fastclick@1.0.9-rc.9
 geojson-utils@1.0.6-rc.9
 hot-code-push@1.0.2-rc.9
@@ -39,6 +40,7 @@ jquery@1.11.6-rc.9
 kadira:blaze-layout@2.1.0
 kadira:flow-router@2.7.0
 launch-screen@1.0.8-rc.9
+less@2.5.6-rc.9
 livedata@1.0.16-rc.9
 localstorage@1.0.7-rc.9
 logging@1.0.10-rc.9

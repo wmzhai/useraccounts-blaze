@@ -3,6 +3,11 @@
 # 'meteor add' and 'meteor remove' will edit this file for you,
 # but you can also edit it by hand.
 
+meteor-base
+
+ecmascript
+es5-shim
+
 accounts-password
 useraccounts:bootstrap
 service-configuration
@@ -10,7 +15,7 @@ twbs:bootstrap
 
 zimme:active-route
 standard-minifiers
-meteor-base
+
 mobile-experience
 mongo
 blaze-html-templates
@@ -25,3 +30,4 @@ spacebars
 check
 arillo:flow-router-helpers
 useraccounts:flow-routing
+less
