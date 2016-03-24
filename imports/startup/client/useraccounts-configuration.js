@@ -1,6 +1,6 @@
 import { AccountsTemplates } from 'meteor/useraccounts:core';
 
-T9n.setLanguage('en');
+T9n.setLanguage('zh_cn');
 
 // Options
 AccountsTemplates.configure({
