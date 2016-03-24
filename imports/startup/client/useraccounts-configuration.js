@@ -1,3 +1,7 @@
+import { AccountsTemplates } from 'meteor/useraccounts:core';
+
+T9n.setLanguage('en');
+
 // Options
 AccountsTemplates.configure({
   defaultLayout: 'App_body',
@@ -6,6 +10,7 @@ AccountsTemplates.configure({
     footer: 'footer',
   },
   defaultContentRegion: 'main',
+
   showForgotPasswordLink: true,
   overrideLoginErrors: true,
   enablePasswordChange: true,
